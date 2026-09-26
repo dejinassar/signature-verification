@@ -1,0 +1,23 @@
+# Dataset
+data/
+signatures/
+data.zip
+
+# Archives / temporary files
+resea.zip
+structure.txt
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
