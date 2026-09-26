@@ -9,7 +9,9 @@ The work is based on academic research into offline signature verification and d
 ## Research Title
 
 **"A Convolutional Neural Network Approach to Offline Handwritten Signature Verification and Forgery Detection"**
+## Live Demo
 
+ **Try the application:** https://signature-verification-cnn.streamlit.app/
 ## Features
 
 - End-to-end offline signature verification pipeline (preprocessing → training → inference)
